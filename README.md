@@ -1,2 +1,3 @@
-# classification
-for classification models
+# Supervised ML
+for classification
+for regression
